@@ -6,11 +6,8 @@
 
 ## 目录
 
-[TOC]
-
 
 
 ## cxk的知识构架
 
 ### 	[redis](./docs/1_redis学习_1.md)
-
