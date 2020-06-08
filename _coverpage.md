@@ -1,5 +1,5 @@
 <p align="center">
-<img src="back_img/tem.jpg" width="200" height="200"/>
+<img src="back_img/backg.jpg" width="200" height="200"/>
 </p>
 <h1 align="center">cxk的知识构架</h1>
 
